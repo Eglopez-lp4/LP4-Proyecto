@@ -1,0 +1,82 @@
+[23-Nov-2024 15:25:38 America/Tegucigalpa] Conexión exitosa
+[23-Nov-2024 15:31:49 America/Tegucigalpa] Conexión exitosa[24-Nov-2024 15:18:36 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:26
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(26): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 16:46:56 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:22
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(22): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 16:47:07 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:22
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(22): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 16:47:12 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:22
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(22): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 18:39:42 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:22
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(22): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 18:41:27 America/Tegucigalpa] Error en la conexión a la BD! ERROR: PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\Habitos\Src\db\connectionDB.php:22
+Stack trace:
+#0 C:\xampp\htdocs\Habitos\Src\db\connectionDB.php(22): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp\htdocs\Habitos\Src\db\test_connection.php(11): App\db\connectionDB::getConnection()
+#2 {main}
+[24-Nov-2024 18:43:14 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:25 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:28 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:28 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:28 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:28 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:23:47 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:35:24 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:34 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:37 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:37 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:37 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:38 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:38 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:38 America/Tegucigalpa] Conexión exitosa
+[24-Nov-2024 20:37:38 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 20:45:22 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 20:45:22 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 20:45:49 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 20:45:49 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 21:27:23 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 21:27:23 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 21:27:46 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 21:27:46 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 21:28:01 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 21:28:01 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 21:28:02 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 21:28:02 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 22
+[27-Nov-2024 21:45:58 America/Tegucigalpa] Conexión exitosa
+[27-Nov-2024 21:45:58 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Class "Usuario" not found in C:\xampp\htdocs\Habitos\Src\db\test_connection.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Habitos\Src\db\test_connection.php on line 23
